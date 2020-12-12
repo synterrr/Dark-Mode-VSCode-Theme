@@ -8,12 +8,12 @@ Pretty dark theme for you that doesn't want eye pain anymore
 if you like the theme don't forget to follow me on [Github](https://github.com/synterrr).
 
 # 📷 ScreenShots
-![Ccode](assets/screenshots/ccode.png)
-![luacode](assets/screenshots/luacode.png)
-![phpcode](assets/screenshots/phpcode.png)
-![htmlcode](assets/screenshots/htmlcode.png)
-![csscode](assets/screenshots/csscode.png)
-![jscode](assets/screenshots/jscode.png)
+![Ccode](https://prnt.sc/w0w4iq)
+![luacode](https://prnt.sc/w0w4pa)
+![phpcode](https://prnt.sc/w0w4t8)
+![htmlcode](https://prnt.sc/w0w4yf)
+![csscode](https://prnt.sc/w0w517)
+![jscode](https://prnt.sc/w0w553)
 
 # 📌 Reason for making the theme
 I really can't code in themes that are too light or not the way i want them to be, so i made this theme to have one where 
