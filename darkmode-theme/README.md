@@ -15,7 +15,7 @@ if you like the theme don't forget to follow me on [Github](https://github.com/s
 ![csscode](assets/screenshots/csscode.png)
 ![jscode](assets/screenshots/jscode.png)
 
-# 📌 Reasom for making the theme
+# 📌 Reason for making the theme
 I really can't code in themes that are too light or not the way i want them to be, so i made this theme to have one where 
 it will not hurt my eyes
 
