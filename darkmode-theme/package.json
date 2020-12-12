@@ -1,0 +1,55 @@
+{
+    "name": "darkmode-theme",
+    "displayName": "DarkMode Theme",
+    "description": "A fancy dark theme for people who are tired of eye hurt",
+    "publisher": "synter",
+    "author": {
+        "name": "synter"
+    },
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/synterrr/Dark-Mode-VSCode-Theme"
+	},
+	"bugs": {
+		"url": "https://github.com/synterrr/Dark-Mode-VSCode-Theme/issues"
+	},
+	"galleryBanner": {
+		"color": "#09131b",
+		"theme": "dark"
+	},
+	"icon": "assets/icon/dark.png",
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"dark mode",
+		"Dark Theme",
+		"VSCODE dark",
+		"vscode theme",
+		"thene",
+		"dark",
+		"eyes",
+        "pudim",
+        "penguim"
+	],
+	"badges": [
+		{
+			"url": "https://img.shields.io/github/followers/synterrr?label=Follow%20me%20on%20Github%21%21%21&logo=github&logoColor=blue&style=social",
+			"href": "https://github.com/synterrr",
+			"description": "Follow me!"
+		}
+	],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Mode theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark Mode theme-color-theme.json"
+            }
+        ]
+    }
+}
